@@ -20,8 +20,12 @@ A microcontroller-based GPS tracking project using the SIM800L GSM module and th
 
 ## 🧠 Folder Structure
 
-├── sim800l-gps-webserver/ → Arduino code for sending GPS data via GSM
+├── sim800l-gps-webserver/ → Arduino code for sending GPS data via GSM\
+
 ├── test-gps/ → Code for testing GPS module standalone
+
 ├── test-sim800l/ → Code for testing GSM module standalone
+
 ├── web-server/ → Web server files (e.g., PHP or Node.js + HTML)
+
 └── README.md → This file
